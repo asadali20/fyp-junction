@@ -1,0 +1,31 @@
+.signup-form
+{
+    text-align: center;
+}
+
+.input
+{
+    width: 300px;
+    border-radius:5px ;
+
+}
+.form-Content
+{
+    /* border: 2px solid; */
+    width: 800px;
+    height:100%;
+    /* align-content:center; */
+    margin: auto;
+
+    /* display: flex; */
+    /* justify-content:space-around ; */
+    /* justify-items: center; */
+    /* max-width: 500; */
+    /* margin:20px 300px; */
+    /* padding: 50px; */
+}
+
+.form-Row
+{
+    padding: 20px 10px;
+}

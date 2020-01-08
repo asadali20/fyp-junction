@@ -1,0 +1,85 @@
+.home
+{   
+    /* display: flex; */
+    justify-content: center;
+    
+    padding : 50px ;
+    /* margin: 100px; */
+
+    
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(../../images/App-image1.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.home-content
+{
+    /* padding: 200px;    */
+    /* margin: 100px 200px; */
+    width :100px;
+    height: 100px;
+    border: 2px solid;
+}
+
+.title
+{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+
+.title h1
+{
+    color: #fff;
+    font-size: 70px;   
+}
+
+.home-btn
+{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#dropdown-basic-button
+{
+    border: 2px solid;
+    color: #fff;
+    /* width: 300px; */
+}
+.option
+{
+    width: 350px;
+}
+/* .home-button1
+{
+    float: left;
+    margin: auto;
+    border: 2px solid;
+    
+}
+.home-button1:hover
+{
+    background-color: beige;
+    transition: 0.6s ease;
+    
+    
+}
+.home-button2
+{
+    float: right;
+    padding: auto;
+    border: 2px solid;
+}
+
+.dropdown-button
+{
+    color:transparent ;
+} */
+

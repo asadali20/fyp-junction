@@ -1,0 +1,33 @@
+
+
+.form
+{
+    /* border: 2px solid; */
+    text-align: left;
+    margin: auto;
+    margin-top: 5%;
+    width: 800px;
+    height:1200px;
+
+}
+.Post{
+    background-image: url(../../../images/App-image1.jpg) !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-size: 100% 100%;
+
+}
+.address
+{
+    padding-top: 10px;
+    font-size: medium;
+}
+
+#dropdown-basic-button
+{
+    margin-top:35px;
+    
+    /* position: absolute; */
+    /* top: 35px; */
+    width:350px;
+}
